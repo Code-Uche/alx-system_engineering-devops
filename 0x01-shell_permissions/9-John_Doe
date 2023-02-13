@@ -1,2 +1,2 @@
 #!/bin/bash
-chmodu u+rwx g+x o+wx
+chmodu 753 hello
