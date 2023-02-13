@@ -1,2 +1,2 @@
 #!/bin/bash
-chmo o+rwx hello
+chmo ug-rwx o+rwx hello
